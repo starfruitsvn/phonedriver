@@ -59,13 +59,13 @@
 
 PhoneDriver AI — Don't just automate. Automate with Intelligence.
 
-[Website:](https://phone2earn.app/ "Website:")
+[Website:https://phone2earn.app](https://phone2earn.app/ "Website:")
 
-[Telegram:](https://t.me/Phone2EarnApp "Telegram:")
+[Telegram:https://t.me/Phone2EarnApp](https://t.me/Phone2EarnApp "Telegram:")
 
-[Facebook:](https://www.facebook.com/phone2earnapp "Facebook:")
+[Facebook:https://www.facebook.com/phone2earnapp](https://www.facebook.com/phone2earnapp "Facebook:")
 
-[Youtube:](https://www.youtube.com/@phone2earn-app "Youtube:")
+[Youtube:https://www.youtube.com/@phone2earn-app](https://www.youtube.com/@phone2earn-app "Youtube:")
 
 
 [Download PhoneDriver AI Now] | [Explore the Documentation]
