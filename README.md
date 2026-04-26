@@ -44,9 +44,14 @@ Debugging is no longer a guessing game. With our advanced Replay Activity, you d
 • Professional Workspace: A stunning Material 3 UI designed for focus, clarity, and efficiency.
 
 🛠️ Key Technical Features for Experts:
+
 • Dynamic Variable Injection: Use {variable_name} inside any text field or message.
+
 • Customizable Loop Parameters: Full control over Start, End, and Step values.
+
 • Hybrid Execution: Mix AI-based element searching with traditional coordinate-based gestures.
+
 • Audit Trails: Automatic screenshot capture at any step for detailed reporting and error tracking.
+
 PhoneDriver AI — Don't just automate. Automate with Intelligence.
 [Download PhoneDriver AI Now] | [Explore the Documentation]
