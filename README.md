@@ -4,7 +4,7 @@
 
 🧠 The AI Revolution: UI Discovery & Flow Generation Forget fragile scripts that break when a button moves 2 pixels. PhoneDriver AI understands the screen like a human does.
 
-|  [![Watch Simulation](https://img.youtube.com/vi/hlosDQDxtJU/0.jpg)](https://www.youtube.com/watch?v=hlosDQDxtJU) | [![Watch UI Element Inspect](https://img.youtube.com/vi/dpHHk6B4SXo/0.jpg)](https://www.youtube.com/watch?v=dpHHk6B4SXo)  |
+|  [![Watch Simulation](https://i.ibb.co/ycxyfq2r/Phone-Driver-Simulation.gif)](https://www.youtube.com/watch?v=hlosDQDxtJU) | [![Watch UI Element Inspect](https://i.ibb.co/0Rgv50mP/Phone-Driver-UIInspect.gif)](https://www.youtube.com/watch?v=dpHHk6B4SXo)  |
 | ------------ | ------------ |
 |   |   |
 
