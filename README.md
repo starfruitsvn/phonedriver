@@ -59,4 +59,9 @@
 
 PhoneDriver AI — Don't just automate. Automate with Intelligence.
 
+[Website:](https://phone2earn.app/ "Website:")
+[Telegram:](https://t.me/Phone2EarnApp "Telegram:")
+[Facebook:](https://www.facebook.com/phone2earnapp "Facebook:")
+[Youtube:](https://www.youtube.com/@phone2earn-app "Youtube:")
+
 [Download PhoneDriver AI Now] | [Explore the Documentation]
