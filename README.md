@@ -4,9 +4,10 @@
 
 🧠 The AI Revolution: UI Discovery & Flow Generation Forget fragile scripts that break when a button moves 2 pixels. PhoneDriver AI understands the screen like a human does.
 
-|  [![Watch Simulation](https://i.ibb.co/ycxyfq2r/Phone-Driver-Simulation.gif)](https://www.youtube.com/watch?v=hlosDQDxtJU) | [![Watch UI Element Inspect](https://i.ibb.co/0Rgv50mP/Phone-Driver-UIInspect.gif)](https://www.youtube.com/watch?v=dpHHk6B4SXo)  |
+|[![](https://i.ibb.co/ycxyfq2r/Phone-Driver-Simulation.gif)](https://youtube.com/shorts/dpHHk6B4SXo)   |   [![](https://i.ibb.co/0Rgv50mP/Phone-Driver-UIInspect.gif)](https://youtube.com/shorts/hlosDQDxtJU)|
 | ------------ | ------------ |
 |   |   |
+
 
 • AI Click & Check: No more hunting for Resource IDs. Simply describe what you want: "Click the blue login button" or "Check if the shopping cart icon is visible." Our advanced AI Vision locates and interacts with elements instantly, regardless of underlying code changes.
 
