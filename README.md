@@ -4,6 +4,10 @@
 
 🧠 The AI Revolution: UI Discovery & Flow Generation Forget fragile scripts that break when a button moves 2 pixels. PhoneDriver AI understands the screen like a human does.
 
+|  [![Watch Simulation](https://img.youtube.com/vi/hlosDQDxtJU/0.jpg)](https://www.youtube.com/watch?v=hlosDQDxtJU) | [![Watch UI Element Inspect](https://img.youtube.com/vi/dpHHk6B4SXo/0.jpg)](https://www.youtube.com/watch?v=dpHHk6B4SXo)  |
+| ------------ | ------------ |
+|   |   |
+
 • AI Click & Check: No more hunting for Resource IDs. Simply describe what you want: "Click the blue login button" or "Check if the shopping cart icon is visible." Our advanced AI Vision locates and interacts with elements instantly, regardless of underlying code changes.
 
 • Prompt-to-Flow: Use our AI Flow Gen to build entire sequences using natural language. Just tell the app your goal, and watch as PhoneDriver AI generates the logic, loops, and conditions for you in seconds.
