@@ -4,11 +4,10 @@
 
 🧠 The AI Revolution: UI Discovery & Flow Generation Forget fragile scripts that break when a button moves 2 pixels. PhoneDriver AI understands the screen like a human does.
 
-![](https://i.ibb.co/ycxyfq2r/Phone-Driver-Simulation.gif)
-
-|  ![](https://i.ibb.co/ycxyfq2r/Phone-Driver-Simulation.gif) |![](https://i.ibb.co/0Rgv50mP/Phone-Driver-UIInspect.gif)   |
+| [![](https://github.com/starfruitsvn/phonedriver/blob/main/PhoneDriverSimulation.gif?raw=true)](https://youtube.com/shorts/dpHHk6B4SXo)  |  [![](https://github.com/starfruitsvn/phonedriver/blob/main/PhoneDriverUIInspect.gif?raw=true)](https://youtube.com/shorts/hlosDQDxtJU) |
 | ------------ | ------------ |
 |   |   |
+
 
 
 
