@@ -1,11 +1,11 @@
 ## 🚀 PhoneDriver AI: 
-###### No need to connect a USB cable, no computer required—control your phone directly from your own phone.
+### No need to connect a USB cable, no computer required—control your phone directly from your own phone.
 
 ##### Main Features:
-- **Macro Record: **For example, if you want to automate a daily check-in on an app to receive rewards, this action can only be performed once per day. If you make any mistake, you’ll have to wait another 24 hours. Macro Record captures everything that happens on your phone screen (video, touches, swipes, scrolling, UI elements, activities, packages) for analysis and testing.
+- **Macro Record:** For example, if you want to automate a daily check-in on an app to receive rewards, this action can only be performed once per day. If you make any mistake, you’ll have to wait another 24 hours. Macro Record captures everything that happens on your phone screen (video, touches, swipes, scrolling, UI elements, activities, packages) for analysis and testing.
 - **UI Inspector:** You have a visual tool to inspect any element on the screen, compare the real display with the UI hierarchy, and access detailed information about each UI element.
--** AutoFlow Studio: **A complete tool that lets you build automation workflows directly on your phone—no code required—supporting all actions such as launching apps, tapping, clicking UI elements, typing, IF, FOR, WHILE, and more
-- **AI Assistant: **With Gemini, you can search for UI elements using prompts and generate complete automation workflows on your phone directly from those prompts.
+- **AutoFlow Studio:** A complete tool that lets you build automation workflows directly on your phone—no code required—supporting all actions such as launching apps, tapping, clicking UI elements, typing, IF, FOR, WHILE, and more
+- **AI Assistant:** With Gemini, you can search for UI elements using prompts and generate complete automation workflows on your phone directly from those prompts.
 
 The Ultimate AI-Powered Android Automation & Debugging Suite Stop repeating yourself. Start automating with intelligence. PhoneDriver AI is a revolutionary, no-code ecosystem designed for developers, QA engineers, and power users who want to master the Android experience. Whether you are building complex enterprise test suites, automating repetitive daily tasks, or debugging intricate UI interactions, PhoneDriver AI provides the precision of a developer with the ease of a natural language prompt.
 
